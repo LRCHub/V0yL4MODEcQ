@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Courtesy Call",
+  "base_artist": "Thousand Foot Krutch",
+  "createdAt": "2026-02-07T12:33:26.583999Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Courtesy Call",
+      "artist": "Thousand Foot Krutch",
+      "has_synced": true,
+      "path": "select/01_Courtesy_Call_Thousand_Foot_Krutch.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Courtesy Call (Live)",
+      "artist": "Thousand Foot Krutch",
+      "has_synced": true,
+      "path": "select/02_Courtesy_Call_(Live)_Thousand_Foot_Krutch.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Courtesy Call",
+      "artist": "Sixx:A.M.",
+      "has_synced": true,
+      "path": "select/03_Courtesy_Call_Sixx_A.M..lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Courtesy Call (Live)",
+      "artist": "Thousand Foot Krutch",
+      "has_synced": true,
+      "path": "select/04_Courtesy_Call_(Live)_Thousand_Foot_Krutch.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Courtesy Call - Rui Da Silva Remix",
+      "artist": "Thousand Foot Krutch",
+      "has_synced": true,
+      "path": "select/05_Courtesy_Call_-_Rui_Da_Silva_Remix_Thousand_Foot_Krutch.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Courtesy Call [Rui da Silva Remix]",
+      "artist": "Thousand Foot Krutch; Rui Da Silva",
+      "has_synced": true,
+      "path": "select/06_Courtesy_Call_[Rui_da_Silva_Remix]_Thousand_Foot_Krutch;_Rui_Da_Silva.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Courtesy Call (Rui da Silva Remix)",
+      "artist": "Thousand Foot Krutch",
+      "has_synced": true,
+      "path": "select/07_Courtesy_Call_(Rui_da_Silva_Remix)_Thousand_Foot_Krutch.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Courtesy Call",
+      "artist": "Thousand Foot Krutch",
+      "has_synced": true,
+      "path": "select/08_Courtesy_Call_Thousand_Foot_Krutch.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Courtesy Call (Live)",
+      "artist": "Thousand Foot Krutch",
+      "has_synced": false,
+      "path": "select/09_Courtesy_Call_(Live)_Thousand_Foot_Krutch.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Courtesy Call",
+      "artist": "Thousand Foot Krutch",
+      "has_synced": true,
+      "path": "select/10_Courtesy_Call_Thousand_Foot_Krutch.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Courtesy Call",
+      "artist": "Jon Bryant",
+      "has_synced": true,
+      "path": "select/11_Courtesy_Call_Jon_Bryant.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Courtesy Call",
+      "artist": "Thousand Foot Krutch",
+      "has_synced": true,
+      "path": "select/12_Courtesy_Call_Thousand_Foot_Krutch.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Thousand Foot Krutch: Courtesy Call (Official Audio)",
+      "artist": "Thousand Foot Krutch",
+      "has_synced": true,
+      "path": "select/13_Thousand_Foot_Krutch__Courtesy_Call_(Official_Audio)_Thousand_Foot_Krutch.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Courtesy Call - Thousand Foot Krutch (Lyrics)",
+      "artist": "Burnout",
+      "has_synced": true,
+      "path": "select/14_Courtesy_Call_-_Thousand_Foot_Krutch_(Lyrics)_Burnout.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Courtesy Call",
+      "artist": "Thousand Foot Krutch",
+      "has_synced": false,
+      "path": "select/pl_01_Courtesy_Call_Thousand_Foot_Krutch.txt"
+    }
+  ]
+}
